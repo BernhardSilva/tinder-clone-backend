@@ -1,6 +1,6 @@
 ﻿# tinder-clone-backend
 
-This is a simple Api for testing Tinder Clone App.
+Just a simple Api for testing Tinder Clone App.
 
 
 GET:
